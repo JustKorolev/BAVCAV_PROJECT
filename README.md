@@ -1,5 +1,5 @@
 # BAVCAV_PROJECT
-ROS code that enables full visual and vocal control of the DJI Tello. New commands coming soon...
+ROS package that enables full visual and vocal control of the DJI Tello. New commands coming soon...
 
 
 # POCKETSPHINX INSTALLATION
