@@ -1,0 +1,3 @@
+int64 battery
+int32 height
+float32 target_distance

@@ -1,0 +1,6 @@
+<launch>
+   <node name="driver" pkg="Final_Project" type="driver.py" output="screen"/>
+   <node name="sensor_processing" pkg="Final_Project" type="sensor_processing.py" output="screen"/>
+   <node name="teleop" pkg="Final_Project" type="teleop.py"/>
+   <node name="movement" pkg="Final_Project" type="movement.py" output="screen"/>
+</launch>

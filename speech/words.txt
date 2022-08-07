@@ -1,0 +1,41 @@
+command flip forward
+command flip backward
+command flip left
+command flip right
+
+command freefall
+command bounce
+command wave
+command spiral
+
+command forward
+command backward
+command left
+command right
+command up
+command down
+command turn left
+command turn right
+command turn ninety left
+command turn ninety right
+command turn one eighty left
+command turn one eighty right
+command turn three sixty left
+command turn three sixty right
+command stop
+
+command circle
+command square
+command triangle
+command vertical square
+
+command start
+command landing
+
+command follow
+command target
+command find target
+
+command photo
+command video start
+command video end
