@@ -1,0 +1,8 @@
+#BAVCAV requirements
+#use pip install -R requirements.txt
+
+
+#BASE
+opencv-python
+djitellopy
+numpy
