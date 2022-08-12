@@ -1,6 +1,8 @@
 # BAVCAV_PROJECT
 ROS package that enables full visual and vocal control of the DJI Tello. New commands coming soon...
 
+# INSTALL REQUIRED MODULES
+check requirements.txt
 
 # POCKETSPHINX INSTALLATION
 sudo pip install SpeechRecognition  
